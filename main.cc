@@ -6,6 +6,7 @@
 // tutorial. The tutorial can be found on the web at
 // http://students.cec.wustl.edu/~agg1/tutorial/
 
+// test for comment
 #include <iostream>
 using namespace std;
 int number_instantiated = 0;
